@@ -1,6 +1,6 @@
 # Phase Diagrams for the New Keynesian Model
 
-This repository contains a number of phase diagrams for the New Keynesian model (NK) and its variant with wealth in the utility function (WUNK). The phase diagrams describe a range of situations:
+This repository contains a number of phase diagrams for the textbook New Keynesian model (NK) and its variant with wealth in the utility function (WUNK). The phase diagrams describe a range of situations:
 
 * Normal times  -  The natural rate of interest is positive, and monetary policy is active.
 * Zero lower bound (ZLB) - The natural rate of interest is negative, and the monetary-policy rate is zero.
