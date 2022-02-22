@@ -1,4 +1,4 @@
-# Phase Diagrams in the New Keynesian Model
+# Phase Diagrams for the New Keynesian Model
 
 This repository contains a number of phase diagrams for the New Keynesian model (NK) and its variant with wealth in the utility function (WUNK). The phase diagrams describe a range of situations:
 
