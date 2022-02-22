@@ -16,7 +16,7 @@ All the phase diagrams are produced with Keynote (version 11.2) on a Mac (macOS 
 
 The construction of the phase diagrams is described in the article ["Resolving New Keynesian Anomalies With Wealth in the Utility Function"](https://doi.org/10.1162/rest_a_00893), by [Pascal Michaillat](https://www.pascalmichaillat.org) and [Emmanuel Saez](https://eml.berkeley.edu/~saez/). The article (`article.pdf`) and its online appendix (`onlineappendix.pdf`) are included in the repository for reference.
 
-### Phase diagrams for NK model
+### Phase diagrams for the NK model
 
 The folder `keynote` includes the following phase diagrams for the NK model:
 
@@ -33,7 +33,7 @@ The folder `keynote` includes the following phase diagrams for the NK model:
 * `nk_mediumg.key` - NK model at ZLB with medium government spending (fig. 5C in the [article](https://doi.org/10.1162/rest_a_00893))
 * `nk_highg.key` - NK model at ZLB with high government spending (fig. 5D in the [article](https://doi.org/10.1162/rest_a_00893))
 
-### Phase diagrams for WUNK model
+### Phase diagrams for the WUNK model
 
 The folder `keynote` includes the following phase diagrams for the WUNK model:
 
