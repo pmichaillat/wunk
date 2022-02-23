@@ -10,7 +10,7 @@ This repository contains a number of phase diagrams for the textbook New Keynesi
 
 ### Software
 
-All the phase diagrams are produced with Keynote (version 11.2) on a Mac (macOS Monterey 12.2.1). The folder `keynote` contains Keynote files for all the phase diagram. The folder `pdf` contains the same phase diagrams saved as PDF files.
+All the phase diagrams are produced with Keynote (version 11.2) on a Mac (macOS Monterey 12.2.1). The folders `nk` and `wunk` contains Keynote files for all the phase diagrams. The folder `pdf` contains the same phase diagrams saved as PDF files.
 
 ### Background
 
@@ -18,7 +18,7 @@ The construction of the phase diagrams is described in the article ["Resolving N
 
 ### Phase diagrams for the NK model
 
-The folder `keynote` includes the following phase diagrams for the NK model:
+The folder `nk` includes the following phase diagrams for the NK model:
 
 * `nk_normal.key` - NK model in normal times (fig. 1A in the [article](https://doi.org/10.1162/rest_a_00893))
 * `nk_zlb.key` - NK model at the ZLB (fig. 1C in the [article](https://doi.org/10.1162/rest_a_00893))
@@ -35,7 +35,7 @@ The folder `keynote` includes the following phase diagrams for the NK model:
 
 ### Phase diagrams for the WUNK model
 
-The folder `keynote` includes the following phase diagrams for the WUNK model:
+The folder `wunk` includes the following phase diagrams for the WUNK model:
 
 * `wunk_normal.key` - WUNK model in normal times (fig. 1B in the [article](https://doi.org/10.1162/rest_a_00893))
 * `wunk_zlb.key` - WUNK model at the ZLB (fig. 1D in the [article](https://doi.org/10.1162/rest_a_00893))
