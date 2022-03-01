@@ -12,7 +12,7 @@ This repository contains a number of phase diagrams for the textbook New Keynesi
 
 All the phase diagrams are produced with Keynote (version 11.2) on a Mac (macOS Monterey 12.2.1). The folders `nk` and `wunk` contains Keynote files for all the phase diagrams. The folder `pdf` contains the same phase diagrams saved as PDF files.
 
-### Background
+## Background
 
 The construction of the phase diagrams is described in the article ["Resolving New Keynesian Anomalies With Wealth in the Utility Function"](https://doi.org/10.1162/rest_a_00893), by [Pascal Michaillat](https://www.pascalmichaillat.org) and [Emmanuel Saez](https://eml.berkeley.edu/~saez/). The article (`article.pdf`) and its online appendix (`onlineappendix.pdf`) are included in the repository for reference.
 
