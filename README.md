@@ -6,7 +6,7 @@ This repository contains a number of phase diagrams for the textbook New Keynesi
 
 The construction of the phase diagrams is described in the article ["Resolving New Keynesian Anomalies With Wealth in the Utility Function"](https://www.pascalmichaillat.org/11.html), written by [Pascal Michaillat](https://www.pascalmichaillat.org) and [Emmanuel Saez](https://eml.berkeley.edu/~saez/), and published in the [Review of Economics and Statistics](https://doi.org/10.1162/rest_a_00893) in May 2021.
 
-# Situations covered by the diagrams
+## Situations covered by the diagrams
 
 The phase diagrams describe a range of situations.
 
