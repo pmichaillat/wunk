@@ -1,12 +1,8 @@
-# Phase Diagrams for the New Keynesian Model
+# Phase Diagrams for "Resolving New Keynesian Anomalies With Wealth in the Utility Function"
 
-This repository contains a number of phase diagrams for the textbook New Keynesian model (NK) and its variant with wealth in the utility function (WUNK). 
+This repository contains the phase diagrams associated with the article ["Resolving New Keynesian Anomalies With Wealth in the Utility Function"](https://www.pascalmichaillat.org/11.html), written by [Pascal Michaillat](https://www.pascalmichaillat.org) and [Emmanuel Saez](https://eml.berkeley.edu/~saez/), and published in the [Review of Economics and Statistics](https://doi.org/10.1162/rest_a_00893) in May 2021.
 
-## Construction of the diagrams
-
-The construction of the phase diagrams is described in the article ["Resolving New Keynesian Anomalies With Wealth in the Utility Function"](https://www.pascalmichaillat.org/11.html), written by [Pascal Michaillat](https://www.pascalmichaillat.org) and [Emmanuel Saez](https://eml.berkeley.edu/~saez/), and published in the [Review of Economics and Statistics](https://doi.org/10.1162/rest_a_00893) in May 2021.
-
-## Situations covered by the diagrams
+## Situations described by the diagrams
 
 The phase diagrams describe a range of situations.
 
@@ -18,7 +14,7 @@ The phase diagrams describe a range of situations.
 
 ## Phase diagrams for the NK model
 
-The folder `nk` includes the phase diagrams for the NK model. The diagrams are available both as Keynote files and as PDF file.
+The folder `nk` includes the phase diagrams for the New Keynesian model (NK). The diagrams are available both as Keynote files and as PDF file.
 
 + `nk_normal.key` & `nk_normal.pdf` - NK model in normal times (fig. 1A in the [article](https://doi.org/10.1162/rest_a_00893))
 + `nk_zlb.key` & `nk_zlb.pdf` - NK model at the ZLB (fig. 1C in the [article](https://doi.org/10.1162/rest_a_00893))
@@ -35,7 +31,7 @@ The folder `nk` includes the phase diagrams for the NK model. The diagrams are a
 
 ## Phase diagrams for the WUNK model
 
-The folder `wunk` includes the phase diagrams for the WUNK model. The diagrams are available both as Keynote files and as PDF file.
+The folder `wunk` includes the phase diagrams for the New Keynesian model with wealth in the utility function (WUNK). The diagrams are available both as Keynote files and as PDF file.
 
 + `wunk_normal.key` & `wunk_normal.pdf` - WUNK model in normal times (fig. 1B in the [article](https://doi.org/10.1162/rest_a_00893))
 + `wunk_zlb.key` & `wunk_zlb.pdf` - WUNK model at the ZLB (fig. 1D in the [article](https://doi.org/10.1162/rest_a_00893))
