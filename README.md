@@ -48,4 +48,4 @@ The folder `wunk` includes the phase diagrams for the New Keynesian model with w
 
 ## License
 
-The content of this repository is licensed under the terms of the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+The content of this repository was created by Pascal Michaillat and Emmanuel Saez and is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
