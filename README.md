@@ -8,9 +8,9 @@ The phase diagrams describe a range of situations.
 
 + Normal times – The natural rate of interest is positive, and monetary policy is active.
 + Zero lower bound (ZLB) – The natural rate of interest is negative, and the monetary-policy rate is zero.
-+ ZLB episode of finite duration – The economy is at the ZLB between time 0 and time T, and it returns to normal after time T.
-+ ZLB episode with forward guidance – The economy is at the ZLB between time 0 and time T. The economy is then in forward guidance between time T and time T+ D: the natural rate of interest is positive but the monetary-policy rate is zero. Finally, the economy returns to normal after time T+D. 
-+ ZLB episode with government spending – The economy is at the ZLB between time 0 and time T. During the ZLB, government spending is positive. The economy returns to normal after time T.
++ ZLB episode of finite duration – The economy is at the ZLB between time 0 and time $T$, and it returns to normal after time $T$.
++ ZLB episode with forward guidance – The economy is at the ZLB between time 0 and time $T$. The economy is then in forward guidance between time $T$ and time $T + \Delta$: the natural rate of interest is positive but the monetary-policy rate is zero. Finally, the economy returns to normal after time $T + \Delta$. 
++ ZLB episode with government spending – The economy is at the ZLB between time 0 and time $T$. During the ZLB, government spending is positive. The economy returns to normal after time $T$.
 
 ## Phase diagrams for the NK model
 
