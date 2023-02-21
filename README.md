@@ -1,6 +1,10 @@
 # Resolving New Keynesian Anomalies With Wealth in the Utility Function: Phase Diagrams
 
-This repository contains the phase diagrams in the article ["Resolving New Keynesian Anomalies With Wealth in the Utility Function"](https://pascalmichaillat.org/11/), written by [Pascal Michaillat](https://pascalmichaillat.org) and [Emmanuel Saez](https://eml.berkeley.edu/~saez/), and published in the [Review of Economics and Statistics](https://doi.org/10.1162/rest_a_00893) in May 2021.
+This repository contains the phase diagrams in the paper "Resolving New Keynesian Anomalies With Wealth in the Utility Function", written by [Pascal Michaillat](https://pascalmichaillat.org) and [Emmanuel Saez](https://eml.berkeley.edu/~saez/), and published in the [Review of Economics and Statistics](https://doi.org/10.1162/rest_a_00893) in May 2021.
+
+## Paper webpage
+
+The paper is available at https://pascalmichaillat.org/11/. The phase diagrams appear in figures 1–6.
 
 ## Situations described by the diagrams
 
