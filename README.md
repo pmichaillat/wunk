@@ -1,6 +1,6 @@
 # Resolving New Keynesian Anomalies With Wealth in the Utility Function: Phase Diagrams
 
-This repository contains the phase diagrams in the paper "Resolving New Keynesian Anomalies With Wealth in the Utility Function", written by [Pascal Michaillat](https://pascalmichaillat.org) and [Emmanuel Saez](https://eml.berkeley.edu/~saez/), and published in the [Review of Economics and Statistics](https://doi.org/10.1162/rest_a_00893) in May 2021.
+This repository contains the phase diagrams from the paper "Resolving New Keynesian Anomalies With Wealth in the Utility Function", written by [Pascal Michaillat](https://pascalmichaillat.org) and [Emmanuel Saez](https://eml.berkeley.edu/~saez/), and published in the [Review of Economics and Statistics](https://doi.org/10.1162/rest_a_00893) in May 2021.
 
 ## Paper webpage
 
@@ -18,7 +18,7 @@ The phase diagrams describe a range of situations.
 
 ## Phase diagrams for the NK model
 
-The folder `nk` includes the phase diagrams for the New Keynesian model (NK). The diagrams are available as both Keynote files and PDF files.
+The phase diagrams for the New Keynesian model (NK) are stored in the folder `nk`. These phase diagrams are drawn by hand using Keynote. The PDF version of the Keynote files is also included.
 
 + `nk_normal.key`, `nk_normal.pdf` – NK model in normal times (figure 1A)
 + `nk_zlb.key`, `nk_zlb.pdf` – NK model at the ZLB (figure 1C)
@@ -35,7 +35,7 @@ The folder `nk` includes the phase diagrams for the New Keynesian model (NK). Th
 
 ## Phase diagrams for the WUNK model
 
-The folder `wunk` includes the phase diagrams for the New Keynesian model with wealth in the utility function (WUNK). The diagrams are available as both Keynote files and PDF files.
+The phase diagrams for the New Keynesian model with wealth in the utility function (WUNK) are stored in the `wunk` folder. The phase diagrams are drawn by hand using Keynote. The PDF version of the Keynote files is also included.
 
 + `wunk_normal.key`, `wunk_normal.pdf` – WUNK model in normal times (figure 1B)
 + `wunk_zlb.key`, `wunk_zlb.pdf` – WUNK model at the ZLB (figure 1D)
