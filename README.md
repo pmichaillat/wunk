@@ -18,37 +18,37 @@ The phase diagrams describe a range of situations.
 
 ## Phase diagrams for the NK model
 
-The phase diagrams for the New Keynesian model (NK) are stored in the folder `nk`. These phase diagrams are drawn by hand using Keynote. The PDF version of the Keynote files is also included.
+The phase diagrams for the New Keynesian model (NK) are stored in the folder `nk`. The diagrams are drawn by hand using Keynote on Mac, and then exported to PDF.
 
-+ `nk_normal.key`, `nk_normal.pdf` – NK model in normal times (figure 1A)
-+ `nk_zlb.key`, `nk_zlb.pdf` – NK model at the ZLB (figure 1C)
-+ `nk_shortzlb.key`, `nk_shortzlb.pdf` – NK model with short ZLB episode (figure 2A)
-+ `nk_longzlb.key`, `nk_longzlb.pdf` – NK model with long ZLB episode (figure 2C)
-+ `nk_fg.key`, `nk_fg.pdf` – NK model in forward guidance (figure 3A)
-+ `nk_shortfg.key`, `nk_shortfg.pdf` – NK model when ZLB is followed by short forward guidance (figure 3B)
-+ `nk_mediumfg.key`, `nk_mediumfg.pdf` – NK model when ZLB is followed by medium forward guidance (figure 3C)
-+ `nk_longfg.key`, `nk_longfg.pdf` – NK model when ZLB is followed by long forward guidance (figure 3D)
-+ `nk_nog.key`, `nk_nog.pdf` – NK model at ZLB with no government spending (figure 5A)
-+ `nk_lowg.key`, `nk_lowg.pdf` – NK model at ZLB with low government spending (figure 5B)
-+ `nk_mediumg.key`, `nk_mediumg.pdf` – NK model at ZLB with medium government spending (figure 5C)
-+ `nk_highg.key`, `nk_highg.pdf` – NK model at ZLB with high government spending (figure 5D)
++ `figure1A.key`, `figure1A.pdf` – Figure 1A: NK model in normal times
++ `figure1C.key`, `figure1C.pdf` – Figure 1C: NK model at the ZLB
++ `figure2A.key`, `figure2A.pdf` – Figure 2A: NK model with short ZLB episode
++ `figure2C.key`, `figure2C.pdf` – Figure 2C: NK model with long ZLB episode
++ `figure3A.key`, `figure3A.pdf` – Figure 3A: NK model in forward guidance
++ `figure3B.key`, `figure3B.pdf` – Figure 3B: NK model with short forward guidance after  ZLB
++ `figure3C.key`, `figure3C.pdf` – Figure 3C: NK model with medium forward guidance after ZLB
++ `figure3D.key`, `figure3D.pdf` – Figure 3D: NK model with long forward guidance after ZLB
++ `figure5A.key`, `figure5A.pdf` – Figure 5A: NK model at ZLB with no government spending
++ `figure5B.key`, `figure5B.pdf` – Figure 5B: NK model at ZLB with low government spending
++ `figure5C.key`, `figure5C.pdf` – Figure 5C: NK model at ZLB with medium government spending
++ `figure5D.key`, `figure5D.pdf` – Figure 5D: NK model at ZLB with high government spending
 
 ## Phase diagrams for the WUNK model
 
-The phase diagrams for the New Keynesian model with wealth in the utility function (WUNK) are stored in the `wunk` folder. The phase diagrams are drawn by hand using Keynote. The PDF version of the Keynote files is also included.
+The phase diagrams for the New Keynesian model with wealth in the utility function (WUNK) are stored in the `wunk` folder. The diagrams are drawn by hand using Keynote on Mac, and then exported to PDF.
 
-+ `wunk_normal.key`, `wunk_normal.pdf` – WUNK model in normal times (figure 1B)
-+ `wunk_zlb.key`, `wunk_zlb.pdf` – WUNK model at the ZLB (figure 1D)
-+ `wunk_shortzlb.key`, `wunk_shortzlb.pdf` – WUNK model with short ZLB episode (figure 2B)
-+ `wunk_longzlb.key`, `wunk_longzlb.pdf` – WUNK model with long ZLB episode (figure 2D)
-+ `wunk_fg.key`, `wunk_fg.pdf` – WUNK model in forward guidance (figure 4A)
-+ `wunk_shortfg.key`, `wunk_shortfg.pdf` – WUNK model when a short ZLB episode precedes forward guidance (figure 4B)
-+ `wunk_longfg.key`, `wunk_longfg.pdf` – WUNK model when a long ZLB episode precedes forward guidance (figure 4C)
-+ `wunk_allfg.key`, `wunk_allfg.pdf` – WUNK model with all possible ZLB and forward guidance durations (figure 4D)
-+ `wunk_nog.key`, `wunk_nog.pdf` – WUNK model at ZLB with no government spending (figure 6A)
-+ `wunk_lowg.key`, `wunk_lowg.pdf` – WUNK model at ZLB with low government spending (figure 6B)
-+ `wunk_mediumg.key`, `wunk_mediumg.pdf` – WUNK model at ZLB with medium government spending (figure 6C)
-+ `wunk_highg.key`, `wunk_highg.pdf` – WUNK model at ZLB with high government spending (figure 6D)
++ `figure1B.key`, `figure1B.pdf` – Figure 1B: WUNK model in normal times 
++ `figure1D.key`, `figure1D.pdf` – Figure 1D: WUNK model at the ZLB 
++ `figure2B.key`, `figure2B.pdf` – Figure 2B: WUNK model with short ZLB episode 
++ `figure2D.key`, `figure2D.pdf` – Figure 2D: WUNK model with long ZLB episode 
++ `figure4A.key`, `figure4A.pdf` – Figure 4A: WUNK model in forward guidance 
++ `figure4B.key`, `figure4B.pdf` – Figure 4B: WUNK model with a short ZLB episode before forward guidance 
++ `figure4C.key`, `figure4C.pdf` – Figure 4C: WUNK model with a long ZLB episode before forward guidance 
++ `figure4D.key`, `figure4D.pdf` – Figure 4D: WUNK model with all possible ZLB and forward guidance durations 
++ `figure6A.key`, `figure6A.pdf` – Figure 6A: WUNK model at ZLB with no government spending 
++ `figure6B.key`, `figure6B.pdf` – Figure 6B: WUNK model at ZLB with low government spending 
++ `figure6C.key`, `figure6C.pdf` – Figure 6C: WUNK model at ZLB with medium government spending 
++ `figure6D.key`, `figure6D.pdf` – Figure 6D: WUNK model at ZLB with high government spending 
 
 ## License
 
